@@ -1,6 +1,6 @@
-# authenticationapp2
+# eRakyat
 
-A new Flutter project.
+A concept app intended for government use built at GODAMlah! Hackathon.
 
 ## Getting Started
 
